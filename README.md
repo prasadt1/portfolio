@@ -1,14 +1,14 @@
 # Portfolio Website
 
-![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE_ID/deploy-status)
+![Netlify Status]([![Netlify Status](https://api.netlify.com/api/v1/badges/26d62dcc-7183-43d5-b46e-8b13d8d5e674/deploy-status)](https://app.netlify.com/sites/prasad-tilloo-portfolio/deploys))
 
-Welcome to my portfolio website! This project showcases my work, skills, and experience in the field of [your expertise].
+Welcome to my portfolio website! This project showcases my work, skills, and experience, Projects, and Key achievements so far in my Career.
 
 ## 🚀 Live Demo
-🔗 [View Live Site](https://your-netlify-site.netlify.app/) (Replace with actual Netlify URL)
+🔗 [View Live Site](https://prasad-tilloo-portfolio.netlify.app/)
 
 ## 🛠 Tech Stack
-- **Frontend:** [React.js / Vue.js / HTML, CSS, JS] (Replace with your tech stack)
+- **Frontend:** [React.js / Vue.js / HTML, CSS, JS]
 - **Hosting:** Netlify
 - **Version Control:** Git & GitHub
 
@@ -61,9 +61,9 @@ Pull requests are welcome! If you’d like to contribute, please fork the reposi
 
 ## 📧 Contact
 For any inquiries, feel free to reach out:
-- 📩 Email: [your.email@example.com] (Replace with your email)
-- 🌐 Portfolio: [your-website.com] (Replace with your website link)
-- 🐦 Twitter: [@yourhandle] (Replace with your Twitter handle)
+- 📩 Email: prasad.sgsits@gmail.com
+- 🌐 Portfolio: https://prasad-tilloo-portfolio.netlify.app/
+- 🐦 Twitter: @prasadt1
 
 ---
-🔹 *Made with ❤️ by [Your Name]*
+🔹 *Made with ❤️ by Prasad Tilloo*
