@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Netlify Status]([![Netlify Status](https://api.netlify.com/api/v1/badges/26d62dcc-7183-43d5-b46e-8b13d8d5e674/deploy-status)](https://app.netlify.com/sites/prasad-tilloo-portfolio/deploys))
+[![Netlify Status](https://api.netlify.com/api/v1/badges/26d62dcc-7183-43d5-b46e-8b13d8d5e674/deploy-status)](https://app.netlify.com/sites/prasad-tilloo-portfolio/deploys)
 
 Welcome to my portfolio website! This project showcases my work, skills, and experience, Projects, and Key achievements so far in my Career.
 
